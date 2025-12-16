@@ -17,7 +17,7 @@ body::-webkit-scrollbar {
 }
 
 #li {
-  font-weight: 700;
+  font-weight: 300;
   font-size: 14px;
   color: #b3b6c2;
   transition: 0.3s;
